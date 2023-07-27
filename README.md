@@ -5,8 +5,8 @@
 
 ## 💟 Preview
   <div style="display: flex; justify-content: center; margin: 30">
-   <img src="Screenshot_3.png" width="400" alt="" >
-   <img src="Screenshot_1.png" width="400" alt="" >
+   <img src="Screenshot_1.png" width="400" height="200" alt="" >
+    <img src="Screenshot_3.png" width="400" height="200" alt="">
   </div>
 
 ## 💻 Tecnologías Utilizadas 
