@@ -6,7 +6,7 @@
 ## 💟 Preview
   <div style="display: flex; justify-content: center; margin: 30">
    <img src="Screenshot_3.png" width="400" alt="" >
-   <img src="" width="400" alt="" >
+   <img src="Screenshot_1.png" width="400" alt="" >
   </div>
 
 ## 💻 Tecnologías Utilizadas 
@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🌼 URL 
-Para interactuar con la plataforma web por favor accede a: <a href="" target="_blank">Drums Proyect</a>
+Para interactuar con la plataforma web por favor accede a: <a href="https://lilitaschini.github.io/Drums-Proyect/" target="_blank">Drums Proyect</a>
 
 ## 🛠 Cómo usar
 Cuando se ingresa a la página se pueden visualizar las teclas, las cuales al presionar las relacionadas al teclado, tienen asociado un sonido de batería. 
