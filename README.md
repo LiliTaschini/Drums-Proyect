@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🌼 URL 
-Para interactuar con la plataforma web por favor accede a: <a href="" target="_blank">Bress-App</a>
+Para interactuar con la plataforma web por favor accede a: <a href="" target="_blank">Drums Proyect</a>
 
 ## 🛠 Cómo usar
 Cuando se ingresa a la página se pueden visualizar las teclas, las cuales al presionar las relacionadas al teclado, tienen asociado un sonido de batería. 
